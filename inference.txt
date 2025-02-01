@@ -1,0 +1,6 @@
+
+### Insights from Data and Graphs:
+1. **Leaf Width vs. Length:** The scatter plot shows that Maple leaves tend to be larger in both width and length, while Cactus leaves are smaller and more consistent.
+2. **Histograms:** The distribution of leaf lengths shows that Maple has the highest variation, whereas Rose and Cactus have more clustered values.
+3. **Boxplots:** The boxplot highlights outliers, especially for Maple, where some leaves are significantly larger than the median.
+4. **Statistical Findings:** The mean and variance indicate that Maple leaves are more varied, while Cactus leaves have a tighter range.

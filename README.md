@@ -13,6 +13,14 @@ Due 1/24/2025
 
 4. I collected 30 data points in total, 10 for each plant species. This sample size was chosen to provide a balance between capturing variation in leaf size and the practical constraints of time and resources.
 
-5. N (full dataset size): 30 (10 data points for each of the three plant species). n (subset size): 10 for each plant species.  
+5. What can you infer from the data and graphs?
+
+Leaf Width vs. Length: The scatter plot shows that Maple leaves tend to be larger in both width and length, while Cactus leaves are smaller and more consistent.
+
+Histograms: The distribution of leaf lengths shows that Maple has the highest variation, whereas Rose and Cactus have more clustered values.
+
+Boxplots: The boxplot highlights outliers, especially for Maple, where some leaves are significantly larger than the median.
+
+Statistical Findings: The mean and variance indicate that Maple leaves are more varied, while Cactus leaves have a tighter range.
 
 6. Some challenges included identifying plant species accurately and dealing with irregularly shaped leaves, which made precise measurements more difficult. Environmental factors, such as wind, also affected measurement stability, and handling delicate leaves without damage required extra care.

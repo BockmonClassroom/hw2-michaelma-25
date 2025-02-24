@@ -24,3 +24,26 @@ Boxplots: The boxplot highlights outliers, especially for Maple, where some leav
 Statistical Findings: The mean and variance indicate that Maple leaves are more varied, while Cactus leaves have a tighter range.
 
 6. Some challenges included identifying plant species accurately and dealing with irregularly shaped leaves, which made precise measurements more difficult. Environmental factors, such as wind, also affected measurement stability, and handling delicate leaves without damage required extra care.
+
+
+# HW2 - Data Collection and Analysis
+
+## 1. Histograms of Leaf Length for Each Plant
+![Histogram Leaf Length](histogram_leaf_length.png)
+
+## 2. Histograms of Leaf Width for Each Plant
+![Histogram Leaf Width](histogram_leaf_width.png)
+
+## 3. Combined Histogram of Leaf Width & Length
+![Histogram Combined](histogram_combined.png)
+
+## 4. Boxplots of Leaf Measurements by Plant Type
+![Boxplot Per Plant](boxplot_per_plant.png)
+
+## 5. Combined Boxplot of Leaf Width & Length
+![Boxplot Combined](boxplot_combined.png)
+
+## 6. Scatter Plot of Leaf Dimensions
+![Scatter Plot](scatter_plot.png)
+
+## 7. Summary Statistics
